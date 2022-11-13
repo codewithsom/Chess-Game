@@ -85,7 +85,7 @@ rooks and 8 pawns.
 npm i
 ```
 ```sh
-node src main.js
+node src/main.js
 ```
 
 ## References :
