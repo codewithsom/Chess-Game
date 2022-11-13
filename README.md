@@ -61,5 +61,11 @@ rooks and 8 pawns.
 
 ![Socket-Programming-with-Nodejs](https://user-images.githubusercontent.com/100460439/201520700-3bdf2963-1a4b-4bc0-8f0f-ab46736084d6.png)
 
+## ScreenShots of Game :
 
+
+![Screenshot (3)](https://user-images.githubusercontent.com/100460439/201520824-b4bc60b8-72ef-4c1b-ab09-c772a19f9830.png)
+![Screenshot (5)](https://user-images.githubusercontent.com/100460439/201520841-005e10aa-434a-4795-9f3f-582d38bce1cd.png)
+![Screenshot (7)](https://user-images.githubusercontent.com/100460439/201520849-0449cf67-8162-4247-aabe-151cb1f1b3cd.png)
+![Screenshot (6)](https://user-images.githubusercontent.com/100460439/201520852-c67f1912-cb68-4ab4-8d32-b6a43608d8a6.png)
 
