@@ -44,6 +44,22 @@ rooks and 8 pawns.
 
 ## Tech Stack :
 
-- [HTML & CSS] - UI Design
-- [node.js] - evented I/O for the backend
-- [socket.io] - how to use socket APIs to establish communication links between remote and local processes.
+### Node JS :
+- Node.js is an open-source and cross-platform JavaScript runtimeenvironment. It is a popular tool for almost any kind of project!
+- Node.js runs the V8 JavaScript engine, the core of Google Chrome, outside ofthe browser. This allows Node.js to be very performant.
+- A Node.js app runs in a single process, without creating a new thread forevery request. Node.js provides a set of asynchronous I/O primitives in itsstandard library that prevent JavaScript code from blocking and generally,libraries in Node.js are written using non-blocking paradigms, makingblocking behaviour the exception rather than the norm.
+- When Node.js performs an I/O operation, like reading from the network,accessing a database or the ﬁlesystem, instead of blocking the thread and wasting CPU cycles waiting, Node.js will resume the operations when theresponse comes back.
+- This allows Node.js to handle thousands of concurrent connections with asingle server without introducing the burden of managing threadconcurrency, which could be a signiﬁcant source of bugs.
+- Node.js has a unique advantage because millions of frontend developers thatwrite JavaScript for the browser are now able to write the server-side code inaddition to the client-side code without the need to learn a completelydierent language.
+- In Node.js the new ECMAScript standards can be used without problems, asyou don't have to wait for all your users to update their browsers - you are incharge of deciding which ECMAScript version to use by changing the Node.jsversion, and you can also enable speciﬁc experimental features by runningNode.js with ﬂag.
+
+### Socket Programming :
+- A socket is a communication connection point (endpoint) that you can nameand address in a network. Socket programming shows how to use socketAPIs to establish communication links between remote and local processes.
+- The processes that use a socket can reside on the same system or dierentsystems on dierent networks. Sockets are useful for both stand-alone andnetwork applications. Sockets allow you to exchange information betweenprocesses on the same machine or across a network, distribute work to themost ecient machine, and they easily allow access to centralised data.Socket application program interfaces (APIs) are the network standard forTCP/IP. A wide range of operating systems support socket APIs. i5/OSsockets support multiple transports and networking protocols. Socket system functions and the socket network functions are thread-safe.
+
+
+
+![Socket-Programming-with-Nodejs](https://user-images.githubusercontent.com/100460439/201520700-3bdf2963-1a4b-4bc0-8f0f-ab46736084d6.png)
+
+
+
