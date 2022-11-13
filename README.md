@@ -80,6 +80,14 @@ rooks and 8 pawns.
 
 
 
+### To Run the Project :
+```sh
+npm i
+```
+```sh
+node src main.js
+```
+
 ## References :
 
 - https://nodejs.org/en/docs/
