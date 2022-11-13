@@ -78,3 +78,10 @@ rooks and 8 pawns.
 
 ![Screenshot (6)](https://user-images.githubusercontent.com/100460439/201520852-c67f1912-cb68-4ab4-8d32-b6a43608d8a6.png)
 
+
+
+## References :
+
+- https://nodejs.org/en/docs/
+- https://www.chess.com/terms/chess-pieces
+- https://www.chesscentral.com/pages/first-moves-in-chess/the-rules-of-chess.html
