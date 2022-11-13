@@ -22,3 +22,22 @@ can proceed depending on the moves made by the two players.
 - The queen is the most powerful chess piece! When a game begins, each sidestarts with one queen. The white queen is located on d1, while the black queen islocated on d8. The queen is considered a major piece (like a rook) and is worth ninepoints. It can move as many squares as it likes left or right horizontally, or as manysquares as it likes up or down vertically (like a rook). The queen can also move asmany squares as it likes diagonally (like a bishop).
 ### The King :
 - The king is the most important chess piece. The goal of a game of chess is tocheckmate the king. When a game starts, each side has one king. White's king is located on e1, while Black's king starts on e8. The king is not a very powerful piece,as it can only move (or capture) one square in any direction. When a king is attacked, it is called a "check".
+
+## Game Rules :
+● The chessboard is two-dimensional of size 8x8 and has 64 squares where the pieces
+can stand.
+● There are two online players, where one player controls the white pieces and the
+other player controls the black pieces. The colour is assigned randomly to the
+players.
+● Each player gets alternate turns, starting with the white side.
+● There are 6 types of chess pieces on the board: king, queen, knight, bishop, rook and
+pawn.
+● At the start of the game, each player has 1 king, 1 queen, 2 knights, 2 bishops, 2
+rooks and 8 pawns.
+● Each piece can only move according to its own fixed rules.
+● A piece can be captured if the opponent player’s piece moves to its current position.
+● Once a piece is captured, it’s removed from the chessboard.
+● There’s no option to cancel once a move is made.
+● There can be two outcomes of the game: checkmate (one side wins) or stalemate
+(draw).
+● Once an outcome is achieved, the game ends.
