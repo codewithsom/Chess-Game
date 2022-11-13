@@ -41,3 +41,9 @@ rooks and 8 pawns.
 - There can be two outcomes of the game: checkmate (one side wins) or stalemate
 (draw).
 - Once an outcome is achieved, the game ends.
+
+## Tech Stack :
+
+- [HTML & CSS] - UI Design
+- [node.js] - evented I/O for the backend
+- [socket.io] - how to use socket APIs to establish communication links between remote and local processes.
